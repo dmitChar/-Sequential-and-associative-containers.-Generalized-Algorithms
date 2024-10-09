@@ -1,4 +1,4 @@
-# -Sequential-and-associative-containers.-Generalized-Algorithms
+# -Sequential-and-associative-containers-Generalized-Algorithms
 ## Задача программы:
 Реализовать класс, содержащий:
 - вектор, заполненный случайными числами в диапазоне m1-m2
